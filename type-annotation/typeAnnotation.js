@@ -1,15 +1,15 @@
 "use strict";
-// variaveis
+// variables
 let nome = "karen lorhana";
 console.log(nome);
 // arrays
 let animais = ['gato', 'cachorro', 'panda', 'pato'];
 console.log(animais);
-// objetos
+// objects
 let carro;
 carro = { nome: 'toppin', ano: 2021, preco: 250000 };
 console.log(carro);
-// funções
+// functions
 function multiplicarNumeros(num1, num2) {
     return num1 * num2;
 }

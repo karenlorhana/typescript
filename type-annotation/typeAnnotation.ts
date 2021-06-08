@@ -1,4 +1,4 @@
-// variaveis
+// variables
 
 let nome: string = "karen lorhana";
 console.log(nome);
@@ -8,7 +8,7 @@ console.log(nome);
 let animais: string[] = ['gato', 'cachorro', 'panda', 'pato'];
 console.log(animais);
 
-// objetos
+// objects
 
 let carro: {
   nome: string;
@@ -19,7 +19,7 @@ let carro: {
 carro = { nome: 'toppin', ano: 2021, preco: 250000 }
 console.log(carro)
 
-// funções
+// functions
 
 function multiplicarNumeros(num1: number, num2: number) {
   return num1 * num2;
