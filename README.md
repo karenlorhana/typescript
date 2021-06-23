@@ -6,5 +6,5 @@
 <li> TypeScript</li>
 </ol>
 
-<hp> Consiste em 1 calculadora simples com adicção, multiplicação, subtração e divisão</hp>
+<hp> Consiste em 1 calculadora simples com adição, multiplicação, subtração e divisão.</hp>
 
